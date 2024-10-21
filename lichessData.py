@@ -14,7 +14,7 @@ import time
 # Step 1: Set Your Lichess API Token
 # ---------------------------
 
-token = "lip_3ux7YvAOCe5o3Sg3YThR"  # Replace with your actual token
+token = ""  # Replace with your actual token
 
 if not token:
     raise ValueError("Lichess API token not provided. Please set the token variable.")
